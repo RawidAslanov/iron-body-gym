@@ -1,0 +1,131 @@
+{
+  "nav": {
+    "home": "Home",
+    "programs": "Programs",
+    "trainers": "Trainers",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "joinNow": "Join Now"
+  },
+  "hero": {
+    "headline": "PUSH YOUR LIMITS",
+    "subheadline": "Elite training. Zero excuses. Transform your body at NYC's most intense fitness club.",
+    "getStarted": "Get Started",
+    "seePrograms": "See Programs",
+    "statMembers": "Members",
+    "statTrainers": "Trainers",
+    "statYears": "Years"
+  },
+  "programs": {
+    "title": "OUR PROGRAMS",
+    "subtitle": "Science-backed programs built for real results — pick your path and commit.",
+    "strength": {
+      "name": "Strength Training",
+      "description": "Progressive overload, compound lifts, and personalized programming to build raw power.",
+      "duration": "60 min sessions",
+      "difficulty": "Intermediate"
+    },
+    "hiit": {
+      "name": "HIIT & Cardio",
+      "description": "High-intensity intervals that torch fat and boost endurance in half the time.",
+      "duration": "45 min sessions",
+      "difficulty": "Advanced"
+    },
+    "yoga": {
+      "name": "Yoga & Mobility",
+      "description": "Restore balance, improve flexibility, and accelerate recovery between heavy sessions.",
+      "duration": "50 min sessions",
+      "difficulty": "All Levels"
+    },
+    "boxing": {
+      "name": "Boxing & MMA",
+      "description": "Footwork, striking, and conditioning from pro coaches — fight-ready fitness.",
+      "duration": "55 min sessions",
+      "difficulty": "Intermediate"
+    }
+  },
+  "trainers": {
+    "title": "MEET THE TEAM",
+    "subtitle": "World-class coaches who live the grind and push you past every plateau.",
+    "bookSession": "Book a Session",
+    "clients": "Clients",
+    "yearsExp": "Yrs Exp",
+    "alex": {
+      "name": "Alex Mercer",
+      "title": "Head Coach",
+      "specialty": "Strength & Conditioning",
+      "bio": "Former collegiate athlete with 12+ years coaching elite performers."
+    },
+    "sara": {
+      "name": "Sara Kim",
+      "title": "HIIT & Nutrition Expert",
+      "specialty": "Metabolic Conditioning",
+      "bio": "Certified nutritionist specializing in fat loss and athletic performance."
+    },
+    "diego": {
+      "name": "Diego Vega",
+      "title": "Boxing & MMA Coach",
+      "specialty": "Combat Sports",
+      "bio": "Pro fighter turned coach — technical striking and fight conditioning."
+    }
+  },
+  "pricing": {
+    "title": "SIMPLE PRICING",
+    "subtitle": "Transparent plans. No hidden fees. Cancel anytime.",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "annualSave": "Save 20%",
+    "popular": "POPULAR",
+    "perMonth": "/mo",
+    "getStarted": "Get Started",
+    "starter": {
+      "name": "STARTER",
+      "features": ["3x/week gym access", "Locker room access", "Group classes included"]
+    },
+    "pro": {
+      "name": "PRO",
+      "features": ["Unlimited gym access", "1 PT session per month", "Custom nutrition plan"]
+    },
+    "elite": {
+      "name": "ELITE",
+      "features": ["Everything in PRO", "Unlimited PT sessions", "Priority booking", "Recovery zone access"]
+    }
+  },
+  "testimonials": {
+    "title": "REAL RESULTS",
+    "subtitle": "Members who showed up, put in the work, and changed their lives.",
+    "t1": {
+      "name": "Marcus Chen",
+      "duration": "Member for 8 months",
+      "quote": "I dropped 28 lbs and added 40 lbs to my deadlift. The coaches here don't let you coast — and that's exactly what I needed."
+    },
+    "t2": {
+      "name": "Elena Volkov",
+      "duration": "Member for 1 year",
+      "quote": "Sara's HIIT classes and nutrition plan completely reshaped my body. I've never felt stronger or more confident."
+    },
+    "t3": {
+      "name": "James Ortiz",
+      "duration": "Member for 6 months",
+      "quote": "Diego's boxing program is the real deal. Cardio that doesn't feel like punishment — I'm hooked."
+    }
+  },
+  "cta": {
+    "headline": "READY TO START?",
+    "subtext": "First week FREE. No contracts. Cancel anytime.",
+    "button": "JOIN NOW"
+  },
+  "footer": {
+    "tagline": "Premium fitness for those who refuse average.",
+    "address": "2847 Iron Street, Brooklyn, NY 11201",
+    "phone": "+1 (555) 010-2030",
+    "email": "info@ironbodygym.com",
+    "hoursTitle": "Hours",
+    "weekdays": "Mon–Fri: 6:00 AM – 11:00 PM",
+    "weekend": "Sat–Sun: 8:00 AM – 9:00 PM",
+    "followUs": "Follow Us",
+    "demoBadge": "Portfolio Demo",
+    "portfolioLink": "More work",
+    "copyright": "© 2026 IRON BODY GYM. All rights reserved."
+  }
+}

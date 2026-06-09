@@ -1,0 +1,131 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "programs": "Programlar",
+    "trainers": "Antrenörler",
+    "pricing": "Fiyatlar",
+    "contact": "İletişim",
+    "joinNow": "Katıl"
+  },
+  "hero": {
+    "headline": "SINIRINI AŞ",
+    "subheadline": "Elit antrenman. Bahane yok. NYC'nin en yoğun fitness kulübünde vücudunu dönüştür.",
+    "getStarted": "Başla",
+    "seePrograms": "Programlar",
+    "statMembers": "Üye",
+    "statTrainers": "Antrenör",
+    "statYears": "Yıl"
+  },
+  "programs": {
+    "title": "PROGRAMLARIMIZ",
+    "subtitle": "Bilim temelli programlar, gerçek sonuçlar — yolunu seç ve kararlı ol.",
+    "strength": {
+      "name": "Güç Antrenmanı",
+      "description": "Progresif yük, bileşik hareketler ve kişisel programlarla saf güç.",
+      "duration": "60 dk seans",
+      "difficulty": "Orta"
+    },
+    "hiit": {
+      "name": "HIIT ve Kardiyo",
+      "description": "Yarı sürede yağ yakımı ve dayanıklılık için yüksek yoğunluklu aralıklar.",
+      "duration": "45 dk seans",
+      "difficulty": "İleri"
+    },
+    "yoga": {
+      "name": "Yoga ve Mobilite",
+      "description": "Denge, esneklik ve ağır seanslar arası hızlı toparlanma.",
+      "duration": "50 dk seans",
+      "difficulty": "Tüm Seviyeler"
+    },
+    "boxing": {
+      "name": "Boks ve MMA",
+      "description": "Ayak işi, vuruş ve pro koçlardan kondisyon — dövüş hazır fitness.",
+      "duration": "55 dk seans",
+      "difficulty": "Orta"
+    }
+  },
+  "trainers": {
+    "title": "EKİBİMİZLE TANIŞ",
+    "subtitle": "Sporu yaşayan, seni her platonun ötesine taşıyan dünya standartında koçlar.",
+    "bookSession": "Seans Ayarla",
+    "clients": "Müşteri",
+    "yearsExp": "Yıl Deneyim",
+    "alex": {
+      "name": "Alex Mercer",
+      "title": "Baş Antrenör",
+      "specialty": "Güç ve Kondisyon",
+      "bio": "Eski üniversite sporcusu, 12+ yıl elit performans koçluğu."
+    },
+    "sara": {
+      "name": "Sara Kim",
+      "title": "HIIT ve Beslenme Uzmanı",
+      "specialty": "Metabolik Kondisyon",
+      "bio": "Sertifikalı beslenme uzmanı — yağ kaybı ve atletik performans."
+    },
+    "diego": {
+      "name": "Diego Vega",
+      "title": "Boks ve MMA Koçu",
+      "specialty": "Dövüş Sporları",
+      "bio": "Profesyonel dövüşçü ve koç — teknik vuruş ve dövüş kondisyonu."
+    }
+  },
+  "pricing": {
+    "title": "BASİT FİYATLANDIRMA",
+    "subtitle": "Şeffaf planlar. Gizli ücret yok. İstediğin zaman iptal.",
+    "monthly": "Aylık",
+    "annual": "Yıllık",
+    "annualSave": "%20 tasarruf",
+    "popular": "POPÜLER",
+    "perMonth": "/ay",
+    "getStarted": "Başla",
+    "starter": {
+      "name": "BAŞLANGIÇ",
+      "features": ["Haftada 3 gün salon", "Soyunma odası", "Grup dersleri dahil"]
+    },
+    "pro": {
+      "name": "PRO",
+      "features": ["Sınırsız salon", "Ayda 1 PT seansı", "Özel beslenme planı"]
+    },
+    "elite": {
+      "name": "ELİT",
+      "features": ["PRO'daki her şey", "Sınırsız PT", "Öncelikli rezervasyon", "Toparlanma alanı"]
+    }
+  },
+  "testimonials": {
+    "title": "GERÇEK SONUÇLAR",
+    "subtitle": "Gelen, çalışan ve hayatını değiştiren üyeler.",
+    "t1": {
+      "name": "Marcus Chen",
+      "duration": "8 aydır üye",
+      "quote": "13 kg verdim ve deadlift'e 18 kg ekledim. Koçlar gevşetmiyor — tam ihtiyacım olan buydu."
+    },
+    "t2": {
+      "name": "Elena Volkov",
+      "duration": "1 yıldır üye",
+      "quote": "Sara'nın HIIT dersleri ve beslenme planı vücudumu tamamen değiştirdi. Hiç bu kadar güçlü hissetmemiştim."
+    },
+    "t3": {
+      "name": "James Ortiz",
+      "duration": "6 aydır üye",
+      "quote": "Diego'nun boks programı gerçek iş. Ceza gibi hissettirmeyen kardiyo — bağımlı oldum."
+    }
+  },
+  "cta": {
+    "headline": "BAŞLAMAYA HAZIR MISIN?",
+    "subtext": "İlk hafta ÜCRETSİZ. Sözleşme yok. İstediğin zaman iptal.",
+    "button": "ŞİMDİ KATIL"
+  },
+  "footer": {
+    "tagline": "Ortalamayı reddedenler için premium fitness.",
+    "address": "2847 Iron Street, Brooklyn, NY 11201",
+    "phone": "+1 (555) 010-2030",
+    "email": "info@ironbodygym.com",
+    "hoursTitle": "Çalışma Saatleri",
+    "weekdays": "Pzt–Cum: 06:00 – 23:00",
+    "weekend": "Cmt–Paz: 08:00 – 21:00",
+    "followUs": "Bizi Takip Et",
+    "demoBadge": "Portföy",
+    "portfolioLink": "Diğer işler",
+    "copyright": "© 2026 IRON BODY GYM. Tüm hakları saklıdır."
+  }
+}
