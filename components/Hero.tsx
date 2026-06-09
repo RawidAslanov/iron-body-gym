@@ -5,8 +5,7 @@ import { motion } from "framer-motion";
 import { useLanguage, type Locale } from "@/context/LanguageContext";
 import { useCountUp } from "@/hooks/useCountUp";
 
-const HERO_IMAGE =
-  "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&q=90";
+const HERO_IMAGE = "/hero.png";
 
 const BRACKET_TEXT: Record<Locale, string> = {
   en: "[ PREMIUM FITNESS CLUB WHERE RESULTS MEET INNOVATION ]",
